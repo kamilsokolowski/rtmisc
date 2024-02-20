@@ -1,4 +1,4 @@
-# Red Team misc
+# Collection of code snippets and scripts created in spare time to do sketchy things.
 Snippets of red team tools.
 1. MalwareDev - collection of code snippets for malware resarch
     1. Encrypt.cs - small util for encrypting shellcode(base64 encoded) with aes.
